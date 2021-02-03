@@ -1,0 +1,14 @@
+.bg{
+    background-image: url(./security.jpg);
+    padding: 30px;
+    text-align: center;
+}
+label{
+    color:seashell;
+}
+.btnn{
+    background-color: red;
+}
+.test{
+    background-color: green;
+}
